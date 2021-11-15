@@ -4,3 +4,5 @@
   tasks:
       - debug:
           msg: Hello world
+  roles:
+       -sample        
