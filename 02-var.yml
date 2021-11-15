@@ -20,5 +20,5 @@
       debug:
         msg: URL = {{URL4}}
     - name: Print variables from CLi
-       debug:
-         msg: URL = {{URL5}}
+      debug:
+        msg: URL = {{URL5}}
