@@ -11,3 +11,8 @@
     - name: Print a  Varible from file
       debug:
         msg: URL = {{URL2}}
+    - name: Demo on task level variable
+       vars:
+         URL3: tasks.google.com
+        debug:
+         msg: URL = {{URL3}}
