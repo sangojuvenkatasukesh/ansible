@@ -12,7 +12,7 @@
       debug:
         msg: URL = {{URL2}}
     - name: Demo on task level variable
-       vars:
+      vars:
          URL3: tasks.google.com
-        debug:
+      debug:
          msg: URL = {{URL3}}
