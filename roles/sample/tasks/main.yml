@@ -3,5 +3,5 @@
       msg: Hello from Role 
 
 - name:  Print URL
-      debug:
-        msg: URL = {{URL8}}
+    debug:
+       msg: URL = {{URL8}}
