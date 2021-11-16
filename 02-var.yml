@@ -42,4 +42,4 @@
       OUTPUT: "{{out.stdout}}"
     - name: Print OUTPUT
       debug:
-        msg: "{}"  
+        msg: "{{}}"  
