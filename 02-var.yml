@@ -45,5 +45,5 @@
       debug:
         msg: "{{OUTPUT}}"  
     
-r oles:
+  roles:
    - demo
