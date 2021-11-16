@@ -24,5 +24,6 @@
       debug:
         msg: URL = {{URL5}}
     - name: Demo on Precendence
-    
+      vars:
+        URL:  {{URL}}
       debug:
