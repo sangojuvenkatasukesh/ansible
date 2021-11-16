@@ -24,7 +24,7 @@
       debug:
         msg: URL = {{URL5}}
     - name: Demo on Precendence
-      vars:
-        URL:  tasks.google.com
+    #  vars:
+     #   URL:  tasks.google.com
       debug:
         msg: URL = {{URL}}
