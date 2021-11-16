@@ -44,5 +44,5 @@
     - name: Print OUTPUT
       debug:
         msg: "{{OUTPUT}}"  
-roles:
-      - demo
+    roles:
+     - demo
