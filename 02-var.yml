@@ -38,5 +38,5 @@
       debug:
         msg: "{{out.stdout}}"
     - name: Declare a variable/fact
-      se
+      set_fact
       
