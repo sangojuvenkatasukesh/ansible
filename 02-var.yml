@@ -46,4 +46,4 @@
         msg: "{{OUTPUT}}"  
     
   roles:
-   - demo
+    - demo
