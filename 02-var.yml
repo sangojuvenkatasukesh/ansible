@@ -39,5 +39,5 @@
         msg: "{{out.stdout}}"
     - name: Declare a variable/fact
       set_fact:
-      OUTPUT: "{{out.}}"
+      OUTPUT: "{{out.stdout}}"
       
