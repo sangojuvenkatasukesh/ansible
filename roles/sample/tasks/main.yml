@@ -4,4 +4,4 @@
 
 - name:  PRINT URL
   debug:
-      msg: 
+      msg: URL = {{URL8}}
