@@ -45,3 +45,4 @@
       debug:
         msg: "{{OUTPUT}}"  
   roles:
+    - demo
