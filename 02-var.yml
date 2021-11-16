@@ -1,5 +1,5 @@
-- name: Demo on Variables
-  hosts: all
+ - name: Demo on Variables
+   hosts: all
   vars:
      URL1: play.google.com
      URL:  play.google.com
@@ -45,5 +45,5 @@
       debug:
         msg: "{{OUTPUT}}"  
       
-roles:
-  -demo
+ roles:
+   -demo
